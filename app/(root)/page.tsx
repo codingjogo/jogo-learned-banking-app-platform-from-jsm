@@ -2,7 +2,7 @@ import React from 'react'
 
 const HomePage = () => {
   return (
-    <section>
+    <section className='home'>
       <h1 className='text-4xl'>Home</h1>
     </section>
   )
